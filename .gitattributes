@@ -1,0 +1,6 @@
+Five-phase-IM-BB-simulation-domain-data-set.rar filter=lfs diff=lfs merge=lfs -text
+Six-phase-PMSM-AA-experimental-domain-data-set.rar filter=lfs diff=lfs merge=lfs -text
+Six-phase-PMSM-AA-simulation-domain-data-set.rar filter=lfs diff=lfs merge=lfs -text
+Five-phase-IM-AA-experimental-domain-data-set.rar filter=lfs diff=lfs merge=lfs -text
+Five-phase-IM-AA-experimental-domain-different-SNR-data-set.rar filter=lfs diff=lfs merge=lfs -text
+Five-phase-IM-AA-simulation-domain-data-set.rar filter=lfs diff=lfs merge=lfs -text
