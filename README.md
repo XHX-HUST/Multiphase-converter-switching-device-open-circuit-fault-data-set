@@ -1,4 +1,4 @@
-This storage bin mainly records the open-circuit fault diagnosis data set of multi-phase converter used in the paper “XXXX” ( follow-up to the title of the paper ). It mainly includes : 
+This storage bin mainly records the open-circuit fault diagnosis data set of multi-phase converter used in the paper "Fully Simulated Data-Driven Domain Generalized Method for Multiphase Converters Fault Diagnosis," in IEEE Transactions on Power Electronics, vol. 40, no. 1, pp. 2099-2113, Jan. 2025, doi: 10.1109/TPEL.2024.3461159. It mainly includes : 
 1 The simulation domain data set of five-phase induction motor AA ; 
 2 experimental domain data set of five-phase induction motor AA ;
 3 The simulation domain data set of five-phase induction motor BB ; 
